@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\bin\Debug\ProyectofinalSAT.exe.config
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\bin\Debug\ProyectofinalSAT.exe
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\bin\Debug\ProyectofinalSAT.pdb
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.muestra.resources
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.Properties.Resources.resources
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.Registro.resources
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.csproj.GenerateResource.cache
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.exe
+C:\Users\HP\Documents\UNIVERSIDAD DEL SUR\3ER CUATRIMESTRE\PROGRAMACION 1\ProyectofinalSAT\ProyectofinalSAT\obj\Debug\ProyectofinalSAT.pdb
