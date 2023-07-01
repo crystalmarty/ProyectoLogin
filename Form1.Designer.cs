@@ -192,6 +192,25 @@ namespace ProyectofinalSAT
         private System.Windows.Forms.Button Entrar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+
+        namespace FormularioLogin
+    {
+        public partial class FormularioBienvenida : Form
+        {
+            Usuario usuario;
+            public FormularioBienvenida(Usuario usuario)
+            {
+                InitializeComponent();
+                this.usuario = usuario;
+            }
+
+            private void FormularioBienvenida_Load(object sender, EventArgs e)
+            {
+                lblUsuario.Text = usuario.nombre;
+            }
+
+        }
     }
+}
 }
 

@@ -50,7 +50,14 @@ namespace ProyectofinalSAT
             contraseña = PasswordPropertyTextAttribute.Text;
             MySqlconnection con = new MySqlconnection();
 
-            
+            String usuarioString = txtBoxUsuario.Text;
+            Usuario usuario = new Usuario();
+            usuario.nombre = usuarioString;
+
+            FormularioBienvenida segundoFormulario = new FormularioBienvenida(usuario);
+            segundoFormulario.Show();
+
+
         }
     }
 }

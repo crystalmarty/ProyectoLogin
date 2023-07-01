@@ -12,6 +12,21 @@ namespace ProyectofinalSAT
 {
     public partial class Registro: Form
     {
+        Usuario usuario;
+        public FormularioBienvenida(Usuario usuario)
+        {
+            InitializeComponent();
+            this.usuario = usuario;
+        }
+
+        private void FormularioBienvenida_Load(object sender, EventArgs e)
+        {
+            lblUsuario.Text = usuario.nombre;
+        }
+
+    }
+}
+
         public Registro()
         {
             InitializeComponent();
